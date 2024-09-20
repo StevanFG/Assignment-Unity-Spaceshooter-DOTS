@@ -1,0 +1,2 @@
+C:\FUTUREGAMES Assignments\Assignment6 - Spaceshooter\Spaceshooter_Assignment\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\FUTUREGAMES Assignments\Assignment6 - Spaceshooter\Spaceshooter_Assignment\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
